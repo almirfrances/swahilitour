@@ -114,3 +114,4 @@ Notes:
 Admin Seeder: Ensure you have an admin seeder that sets up the default admin username and password as tanzaadmin and tanzahost.
 # swahilitour
 # swahilitour
+# swahilitour
