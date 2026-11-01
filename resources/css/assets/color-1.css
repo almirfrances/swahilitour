@@ -1,0 +1,35 @@
+:root {
+  --almir-font: "Inter", sans-serif;
+  --almir-font2: "Plus Jakarta Sans", sans-serif;
+  --almir-special-font: "Dancing Script", cursive;
+  --almir-base: #384BFF;
+  --almir-base-rgb: 56, 75, 255;
+  --almir-secondary: #565656;
+  --almir-secondary-rgb: 86, 86, 86;
+  --almir-gray: #767682;
+  --almir-gray-rgb: 118, 118, 130;
+  --almir-gray2: #7D7F8E;
+  --almir-gray2-rgb: 125, 127, 142;
+  --almir-gray3: #DEDEDE;
+  --almir-gray3-rgb: 222, 222, 222;
+  --almir-white2: #F1F6FF;
+  --almir-white2-rgb: 241, 246, 255;
+  --almir-white3: #F2F2F2;
+  --almir-white3-rgb: 242, 242, 242;
+  --almir-white4: #F5F5F5;
+  --almir-white4-rgb: 245, 245, 245;
+  --almir-white5: #F1F6F4;
+  --almir-white5-rgb: 241, 246, 244;
+  --almir-black: #232323;
+  --almir-black-rgb: 35, 35, 35;
+  --almir-black2: #101A29;
+  --almir-black2-rgb: 16, 26, 41;
+  --almir-black3: #000000;
+  --almir-black3-rgb: 0, 0, 0;
+  --almir-yellow: #FAB123;
+  --almir-yellow-rgb: 250, 177, 35;
+  --almir-border-color: #DDDDDD;
+  --almir-border-color-rgb: 221, 221, 221;
+  --almir-body-line-height: 1.75;
+}
+/*# sourceMappingURL=color-1.css.map */
